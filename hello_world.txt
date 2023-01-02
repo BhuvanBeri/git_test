@@ -1,0 +1,2 @@
+#First time learning about Git.
+# Using CLI in Linux xubuntu to learn about use of Git and Github.
